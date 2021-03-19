@@ -1,0 +1,66 @@
+RewriteEngine on
+
+ErrorDocument 404 /pages/404.php
+ErrorDocument 500 /pages_error/500.html
+
+# Rewrite Url
+RewriteRule ^index.html$ index.php [L]
+RewriteRule ^home$ index.php [L]
+RewriteRule ^home.html$ index.php [L]
+RewriteRule ^register.html$ pages/account/register.php [L]
+RewriteRule ^signin.html$ pages/account/login.php [L]
+RewriteRule ^verify.html$ pages/account/verify.php [L]
+RewriteRule ^signout.html$ pages/account/out.php [L]
+RewriteRule ^fb-login.html$ pages/account/fb-login.php [L]
+RewriteRule ^reset/password$ pages/account/reset-password.php [L]
+
+ # Rewrite Pages
+RewriteRule ^router/(.*)$ pages/router.php?path=$1 [L]
+RewriteRule ^thong-tin-tai-khoan$ index.php?act=thong_tin [L]
+RewriteRule ^doi-mat-khau$ index.php?act=doi_mat_khau [L]
+RewriteRule ^doi-mat-khau-cap-2$ index.php?act=doi_mat_khau_cap_2 [L]
+RewriteRule ^reset-mat-khau-cap-2$ index.php?act=reset_password_2 [L]
+RewriteRule ^lich-su-nap$ index.php?act=lich_su_nap_the [L]
+RewriteRule ^lich-su-nap-api$ index.php?act=lich_su_nap_the_api [L]
+RewriteRule ^mua-the$ index.php?act=mua_the [L]
+RewriteRule ^lich-su-mua-the$ index.php?act=lich_su_mua_the [L]
+RewriteRule ^chuyen-tien$ index.php?act=chuyen_tien [L]
+RewriteRule ^lich-su-nhan-tien$ index.php?act=lich_su_nhan_tien [L]
+RewriteRule ^rut-tien$ index.php?act=rut_tien [L]
+RewriteRule ^thong-bao$ index.php?act=thong_bao [L]
+RewriteRule ^reset-pass/token/(.*)$ pages/account/reset-pass-page.php?token=$1 [L]
+RewriteRule ^tich-hop-api$ index.php?act=tich_hop_api [L]
+RewriteRule ^dai-ly$ index.php?act=dai_ly [L]
+RewriteRule ^thanh-vien-dai-ly$ index.php?act=member_dai_ly [L]
+RewriteRule ^lich-su-nap-the-dai-ly$ index.php?act=lich_su_nap_the_dai_ly [L]
+
+ # Rewrite Module
+RewriteRule ^system/user$ modun/account/user.php [L]
+RewriteRule ^system/user/change_pass$ modun/account/user_change_pass.php [L]
+RewriteRule ^system/user/change_pass_2$ modun/account/user_change_pass_2.php [L]
+RewriteRule ^system/user/edit_account$ modun/account/user_edit.php [L]
+RewriteRule ^system/user/reset-password$ modun/account/reset-password.php [L]
+RewriteRule ^system/user/reset-password-2$ modun/account/reset-password-2.php [L]
+
+ # Rewrite API
+RewriteRule ^api/info$ API/info.php [L]
+RewriteRule ^api/nap_the$ API/nap_the.php [L]
+RewriteRule ^api/nap_the_tu_dong$ API/nap_the_tu_dong.php [L]
+RewriteRule ^api/mua_the$ API/mua_the.php [L]
+RewriteRule ^api/history$ API/lich_su_nap_the.php [L]
+RewriteRule ^api/history-api$ API/lich_su_nap_the_api.php [L]
+RewriteRule ^api/history-mua-the$ API/lich_su_mua_the.php [L]
+RewriteRule ^api/history-chuyen-tien$ API/lich_su_chuyen_tien.php [L]
+RewriteRule ^api/chuyen-tien$ API/chuyen_tien.php [L]
+RewriteRule ^api/history-nhan-tien$ API/lich_su_nhan_tien.php [L]
+RewriteRule ^api/rut-tien$ API/rut_tien.php [L]
+RewriteRule ^api/history-rut-tien$ API/lich_su_rut_tien.php [L]
+RewriteRule ^api/dai-ly$ API/dai_ly.php [L]
+RewriteRule ^api/member-dai-ly$ API/member_dai_ly.php [L]
+RewriteRule ^api/lich-su-nap-the-dai-ly$ API/lich_su_nap_the_dai_ly.php [L]
+RewriteRule ^api/get-list-card-amount$ API/get_list_amount_card.php [L]
+RewriteRule ^api/thong-ke$ API/thongke.php [L]
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>

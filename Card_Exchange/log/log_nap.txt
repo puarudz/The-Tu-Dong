@@ -1,0 +1,136 @@
+nguyenhuunhan26|13:36:26 11/02/21|497813|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:37:06 11/02/21|899683|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:37:41 11/02/21|602470|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:38:01 11/02/21|587292|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:38:23 11/02/21|429533|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:38:25 11/02/21|306617|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:38:45 11/02/21|101813|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:38:45 11/02/21|433147|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:40:20 11/02/21|739717|401|Định dạng thẻ không đúng
+nguyenhuunhan26|13:40:20 11/02/21|969453|401|Định dạng thẻ không đúng
+nguyenhuunhan26|15:44:26 11/02/21|616175|200|Đẩy thẻ thành công
+nguyenhuunhan26|15:44:27 11/02/21|516060|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|15:44:40 11/02/21|904312|200|Đẩy thẻ thành công
+nguyenhuunhan26|15:44:41 11/02/21|307362|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|15:45:07 11/02/21|191149|200|Đẩy thẻ thành công
+nguyenhuunhan26|15:45:08 11/02/21|476795|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|15:48:17 11/02/21|898169|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|15:48:52 11/02/21|283707|200|Đẩy thẻ thành công
+nguyenhuunhan26|15:51:28 11/02/21|768577|200|Đẩy thẻ thành công
+nguyenhuunhan26|15:51:28 11/02/21|526450|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|23:22:53 12/02/21|223247|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:23:04 12/02/21|623487|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:23:13 12/02/21|691387|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:23:27 12/02/21|142009|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:23:41 12/02/21|485409|401|Định dạng thẻ không đúng
+nguyenhuunhan26|23:23:49 12/02/21|547090|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:27:24 12/02/21|951285|401|Định dạng thẻ không đúng
+nguyenhuunhan26|23:43:16 12/02/21|663140|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:43:16 12/02/21|359074|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|00:46:40 15/02/21|530790|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:47:46 15/02/21|156402|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:47:56 15/02/21|795260|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:48:04 15/02/21|165812|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:48:14 15/02/21|533315|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:48:21 15/02/21|476440|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:48:33 15/02/21|958911|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:48:51 15/02/21|514566|200|Đẩy thẻ thành công
+nguyenhuunhan26|00:49:00 15/02/21|176442|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:21:08 15/02/21|573013|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:21:09 15/02/21|495319|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|21:21:45 15/02/21|163766|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:22:42 15/02/21|419409|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:22:56 15/02/21|562685|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:23:10 15/02/21|504502|200|Đẩy thẻ thành công
+nguyenhuunhan26|21:23:28 15/02/21|123606|401|Định dạng thẻ không đúng
+nguyenhuunhan26|21:25:35 15/02/21|190187|401|Định dạng thẻ không đúng
+nguyenhuunhan26|21:53:05 15/02/21|588571|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:40:29 16/02/21|721298|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:43:59 16/02/21|638257|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:43:59 16/02/21|211478|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:44:17 16/02/21|810606|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:44:17 16/02/21|936575|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:44:28 16/02/21|635800|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:44:28 16/02/21|678330|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:44:40 16/02/21|737359|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:44:41 16/02/21|866865|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:44:54 16/02/21|523497|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:44:54 16/02/21|822975|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:45:07 16/02/21|311296|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:45:08 16/02/21|754815|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:45:14 16/02/21|877406|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:45:14 16/02/21|435885|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:45:17 16/02/21|839474|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:45:17 16/02/21|908147|401|Định dạng thẻ không đúng
+nguyenhuunhan26|18:46:41 16/02/21|951026|200|Đẩy thẻ thành công
+nguyenhuunhan26|18:46:42 16/02/21|569076|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|23:24:09 16/02/21|962670|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:24:46 16/02/21|121741|200|Đẩy thẻ thành công
+khaineymar1|23:30:43 16/02/21|161189|200|Đẩy thẻ thành công
+khaineymar1|23:31:08 16/02/21|252504|200|Đẩy thẻ thành công
+khaineymar1|23:31:23 16/02/21|644299|200|Đẩy thẻ thành công
+khaineymar1|23:32:32 16/02/21|804531|200|Đẩy thẻ thành công
+khaineymar1|23:37:09 16/02/21|429142|400|Mã thẻ đã tồn tại
+khaineymar1|23:37:17 16/02/21|440478|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:44:11 16/02/21|533677|200|Đẩy thẻ thành công
+nguyenhuunhan26|23:44:23 16/02/21|530107|200|Đẩy thẻ thành công
+khaineymar1|23:45:10 16/02/21|512037|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:16:57 17/02/21|830735|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:16:57 17/02/21|640731|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|13:17:31 17/02/21|794514|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:17:31 17/02/21|672571|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|16:12:03 17/02/21|392129|200|Đẩy thẻ thành công
+nguyenhuunhan26|16:12:04 17/02/21|552987|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|18:05:55 17/02/21|838216|200|Đẩy thẻ thành công
+nguyenhuunhan26|19:01:30 17/02/21|625043|401|Định dạng thẻ không đúng
+nguyenhuunhan26|19:01:31 17/02/21|887647|401|Định dạng thẻ không đúng
+nguyenhuunhan26|19:01:49 17/02/21|971110|200|Đẩy thẻ thành công
+nguyenhuunhan26|19:01:49 17/02/21|781271|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|19:02:12 17/02/21|325242|200|Đẩy thẻ thành công
+nguyenhuunhan26|19:02:13 17/02/21|846862|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|19:02:31 17/02/21|229126|200|Đẩy thẻ thành công
+nguyenhuunhan26|19:02:31 17/02/21|122042|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|19:02:47 17/02/21|831861|200|Đẩy thẻ thành công
+nguyenhuunhan26|19:02:48 17/02/21|709148|400|Mã thẻ đã tồn tại
+KhaiNun|22:15:39 17/02/21|983973|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:10:38 18/02/21|851445|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:10:58 18/02/21|395174|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:11:16 18/02/21|612198|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:34:24 18/02/21|475193|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:34:24 18/02/21|434265|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|13:34:34 18/02/21|285029|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:34:35 18/02/21|513878|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|13:34:45 18/02/21|160366|200|Đẩy thẻ thành công
+nguyenhuunhan26|13:34:46 18/02/21|606236|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|13:37:24 18/02/21|872805|400|Mã thẻ đã tồn tại
+nguyenhuunhan26|13:37:25 18/02/21|966759|400|Mã thẻ đã tồn tại
+Tienoggy113|06:13:22 19/02/21|470675|400|Mã thẻ đã tồn tại
+Tienoggy113|06:13:58 19/02/21|655973|400|Mã thẻ đã tồn tại
+Tienoggy113|14:27:15 19/02/21|200544|200|Đẩy thẻ thành công
+Tienoggy113|17:31:30 19/02/21|143567|200|Đẩy thẻ thành công
+Tienoggy113|09:50:38 20/02/21|219281|200|Đẩy thẻ thành công
+Tienoggy113|11:58:21 20/02/21|816578|200|Đẩy thẻ thành công
+Tienoggy113|16:04:37 20/02/21|891201|200|Đẩy thẻ thành công
+Tienoggy113|14:36:49 21/02/21|426587|401|Định dạng thẻ không đúng
+Tienoggy113|14:37:32 21/02/21|600795|200|Đẩy thẻ thành công
+Tienoggy113|14:47:36 21/02/21|195130|200|Đẩy thẻ thành công
+Tienoggy113|14:56:04 21/02/21|998239|200|Đẩy thẻ thành công
+Tienoggy113|15:34:16 21/02/21|274201|200|Đẩy thẻ thành công
+Tienoggy113|16:24:19 21/02/21|667309|200|Đẩy thẻ thành công
+Tienoggy113|12:52:23 22/02/21|815079|200|Đẩy thẻ thành công
+Tienoggy113|13:10:02 22/02/21|418135|200|Đẩy thẻ thành công
+Tienoggy113|14:03:32 22/02/21|858611|200|Đẩy thẻ thành công
+Tienoggy113|14:47:21 22/02/21|579702|200|Đẩy thẻ thành công
+Tienoggy113|14:48:26 22/02/21|957934|200|Đẩy thẻ thành công
+Tienoggy113|14:50:50 22/02/21|535031|200|Đẩy thẻ thành công
+Tienoggy113|14:54:18 22/02/21|844150|200|Đẩy thẻ thành công
+Tienoggy113|15:23:44 22/02/21|171887|401|Định dạng thẻ không đúng
+Tienoggy113|15:23:52 22/02/21|410787|401|Định dạng thẻ không đúng
+Tienoggy113|15:24:02 22/02/21|796235|401|Định dạng thẻ không đúng
+Tienoggy113|16:13:35 22/02/21|879575|401|Định dạng thẻ không đúng
+Tienoggy113|16:14:02 22/02/21|889768|401|Định dạng thẻ không đúng
+Tienoggy113|16:14:12 22/02/21|145349|200|Đẩy thẻ thành công
+Tienoggy113|16:59:21 22/02/21|785828|401|Định dạng thẻ không đúng
+Tienoggy113|17:00:19 22/02/21|759094|200|Đẩy thẻ thành công
+Tienoggy113|18:30:12 22/02/21|328464|200|Đẩy thẻ thành công
+Tienoggy113|18:36:04 22/02/21|743287|200|Đẩy thẻ thành công

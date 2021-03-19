@@ -1,0 +1,1 @@
+<?php defined('KUNKEYPR') or die("ACCESS DENIED!");?>
